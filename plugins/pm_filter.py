@@ -596,7 +596,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🔎 𝚂𝙴𝙰𝚁𝙲𝙷 🔎', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🔔 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 🤖', url='https://t.me/Aklinksz_Support_bot')
         ],[
-            InlineKeyboardButton('💫 ᴍᴏᴠɪᴇs ʟɪsᴛ 💫', url='https://t.me/+0ZZzS3r1RWI3ODVl'),
+            InlineKeyboardButton('🌟 sᴇʀɪᴇs ʟɪsᴛ 🌟', url='https://t.me/+0ZZzS3r1RWI3ODVl'),
             InlineKeyboardButton('💫 𝙶𝚁𝙾𝚄𝙿 💫', url='https://t.me/Aklinks_3')
         ],[
             InlineKeyboardButton('🙆🏻 𝙷𝙴𝙻𝙿 🦾', callback_data='help'),
@@ -1226,7 +1226,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [ 
-	    InlineKeyboardButton(text="⚡ʜᴏᴡ 2 ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/Aklinksz'),
+	    InlineKeyboardButton(text="🍁 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 𝐂𝐎𝐋𝐋𝐄𝐂𝐓𝐈𝐎𝐍 ❗", url='https://t.me/Aklinksz_web_series'),
         ] 
     )
     if offset != "":
