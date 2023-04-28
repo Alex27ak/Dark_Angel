@@ -52,8 +52,8 @@ async def start(client, message):
             InlineKeyboardButton('🔎 𝚂𝙴𝙰𝚁𝙲𝙷 🔎', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🔔 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 🤖', url='https://t.me/Aklinksz_Support_bot')
         ],[
-            InlineKeyboardButton('💫 𝙶𝚁𝙾𝚄𝙿 1 💫', url='https://t.me/Aklinks_1'),
-            InlineKeyboardButton('💫 𝙶𝚁𝙾𝚄𝙿 2 💫', url='https://t.me/Aklinks_2')
+            InlineKeyboardButton('💫 ᴍᴏᴠɪᴇs ʟɪsᴛ 💫', url='https://t.me/+0ZZzS3r1RWI3ODVl'),
+            InlineKeyboardButton('💫 𝙶𝚁𝙾𝚄𝙿 💫', url='https://t.me/Aklinks_3')
         ],[
             InlineKeyboardButton('🙆🏻 𝙷𝙴𝙻𝙿 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ 𝙰𝙱𝙾𝚄𝚃 ♥️', callback_data='about')
@@ -108,8 +108,8 @@ async def start(client, message):
             InlineKeyboardButton('🔎 𝚂𝙴𝙰𝚁𝙲𝙷 🔎', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🔔 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 🤖', url='https://t.me/Aklinksz_Support_bot')
         ],[
-            InlineKeyboardButton('💫 𝙶𝚁𝙾𝚄𝙿 1 💫', url='https://t.me/Aklinks_1'),
-            InlineKeyboardButton('💫 𝙶𝚁𝙾𝚄𝙿 2 💫', url='https://t.me/Aklinks_2')
+            InlineKeyboardButton('💫 ᴍᴏᴠɪᴇs ʟɪsᴛ 💫', url='https://t.me/+0ZZzS3r1RWI3ODVl'),
+            InlineKeyboardButton('💫 𝙶𝚁𝙾𝚄𝙿 💫', url='https://t.me/Aklinks_3')
         ],[
             InlineKeyboardButton('🙆🏻 𝙷𝙴𝙻𝙿 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ 𝙰𝙱𝙾𝚄𝚃 ♥️', callback_data='about')
